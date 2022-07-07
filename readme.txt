@@ -4,7 +4,7 @@ Contributors:       nielslange
 Tags:               to the top block, jump to the top block, to the top link, jump to top link
 Tested up to:       6.0
 Requires at least:  5.0
-Stable tag:         1.0
+Stable tag:         1.0.0
 Requires PHP:       7.0
 License:            GPL-2.0-or-later
 License URI:        https://www.gnu.org/licenses/gpl-2.0.html
