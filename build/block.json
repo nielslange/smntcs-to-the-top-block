@@ -1,0 +1,28 @@
+{
+  "$schema": "https://schemas.wp.org/trunk/block.json",
+  "apiVersion": 2,
+  "name": "nielslange/to-the-top-block",
+  "version": "0.1.0",
+  "title": "Jump To The Top Link",
+  "category": "widgets",
+  "icon": "arrow-up-alt",
+  "description": "Adds a jump to the top link.",
+  "supports": {
+    "html": false,
+    "align": false
+  },
+  "attributes": {
+    "alignment": {
+      "type": "string",
+      "default": "right"
+    },
+    "label": {
+      "type": "string",
+      "default": "Jump to the top ↑"
+    }
+  },
+  "textdomain": "to-the-top-block",
+  "editorScript": "file:./index.js",
+  "editorStyle": "file:./index.css",
+  "style": "file:./style-index.css"
+}
