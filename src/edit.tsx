@@ -8,6 +8,11 @@ import {
 	useBlockProps,
 } from '@wordpress/block-editor';
 
+/**
+ * Internal dependencies
+ */
+import './editor.scss';
+
 interface props {
 	attributes: { label: string; alignment: string };
 	setAttributes: ( attributes: Record< string, unknown > ) => void;

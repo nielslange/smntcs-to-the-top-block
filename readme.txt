@@ -13,12 +13,19 @@ Adds a jump to the top link to your pages, posts or custom post types.
 
 == Description ==
 
-This block allows to add jump to the top blocks to any page, post or custom post type. This comes handy for long content and enables the reader to jump to the top of the page instead of scrolling back up.
+Sometimes … all you want, is jumping to the top, ins’t it? Wait no longer and install this To The Top Block! It enables both you and your visitors to jump to the top of any given page, post or custom post type. Stop scrolling up long pages and start using the To The Top Block instead.
 
 == Installation ==
 
 1. Upload `to-the-top-block` to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the `Plugins` menu in WordPress.
+
+== Screenshots ==
+
+1. Left-align jump to the top link.
+2. Center-align jump to the top link.
+3. Right-align jump to the top link.
+4. Adjust the label of the jump to the top link.
 
 == Changelog ==
 

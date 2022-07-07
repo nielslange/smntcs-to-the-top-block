@@ -3,7 +3,7 @@
 	"apiVersion": 2,
 	"name": "nielslange/to-the-top-block",
 	"version": "0.1.0",
-	"title": "To The Top Block",
+	"title": "Jump To The Top Link",
 	"category": "widgets",
 	"icon": "arrow-up-alt",
 	"description": "Adds a jump to the top link.",
@@ -18,7 +18,7 @@
 		},
 		"label": {
 			"type": "string",
-			"default": "Jump to top"
+			"default": "Jump to the top ↑"
 		}
 	},
 	"textdomain": "to-the-top-block",
