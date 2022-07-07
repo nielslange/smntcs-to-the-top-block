@@ -4,7 +4,7 @@ Contributors:       nielslange
 Tags:               to the top block, jump to the top block, to the top link, jump to top link
 Tested up to:       6.0
 Requires at least:  5.0
-Stable tag:         1.0.0
+Stable tag:         1.1.0
 Requires PHP:       7.0
 License:            GPL-2.0-or-later
 License URI:        https://www.gnu.org/licenses/gpl-2.0.html
@@ -28,6 +28,9 @@ Sometimes … all you want, is jumping to the top, ins’t it? Wait no longer an
 4. Adjust the label of the jump to the top link.
 
 == Changelog ==
+
+= 1.1.0 (2022.07.07) =
+* Add build folder to repo due to WordPress.org deploy action
 
 = 1.0.0 (2022.07.01) =
 * Initial release
