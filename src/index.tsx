@@ -8,8 +8,9 @@ import { registerBlockType } from '@wordpress/blocks';
  */
 import { Edit } from './edit';
 import { save } from './save';
+import './style.scss';
 
-registerBlockType( 'nielslange/to-the-top-block', {
+registerBlockType( 'nielslange/smntcs-to-the-top-block', {
 	edit: Edit,
 	save,
 	example: {},

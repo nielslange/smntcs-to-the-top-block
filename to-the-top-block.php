@@ -1,14 +1,14 @@
 <?php
 /**
- * Plugin Name:       To The Top Block
+ * Plugin Name:       SMNTCS To The Top Block
  * Description:       Adds a jump to the top link to your pages, posts or custom post types.
  * Requires at least: 5.0
  * Requires PHP:      7.0
- * Version:           1.2.0
+ * Version:           1.3.0
  * Author:            Niels Lange
  * License:           GPL-2.0-or-later
  * License URI:       https://www.gnu.org/licenses/gpl-2.0.html
- * Text Domain:       to-the-top-block
+ * Text Domain:       smntcs-to-the-top-block
  */
 
 /**

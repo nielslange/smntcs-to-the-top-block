@@ -1,10 +1,10 @@
-=== To The Top Block ===
+=== SMNTCS To The Top Block ===
 
 Contributors:       nielslange
 Tags:               back to top, scroll to top, scroll top, scroll up, scroll to top block
-Tested up to:       6.0
+Tested up to:       6.2
 Requires at least:  5.0
-Stable tag:         1.2.0
+Stable tag:         1.3.0
 Requires PHP:       7.0
 License:            GPL-2.0-or-later
 License URI:        https://www.gnu.org/licenses/gpl-2.0.html
@@ -13,18 +13,18 @@ Adds a jump to the top link to your pages, posts or custom post types.
 
 == Description ==
 
-Sometimes … all you want, is jumping to the top, ins’t it? Wait no longer and install this To The Top Block!
+Sometimes … all you want, is jumping to the top, ins’t it? Wait no longer and install this SMNTCS To The Top Block!
 
-This block enables both you and your visitors to jump to the top of any given page, post or custom post type. Stop scrolling up long pages and start using the To The Top Block instead.
+This block enables both you and your visitors to jump to the top of any given page, post or custom post type. Stop scrolling up long pages and start using the SMNTCS To The Top Block instead.
 
 === Features ===
 
-- Align the To The Top Block left, right or center.
+- Align the SMNTCS To The Top Block left, right or center.
 - Adjust the label according to your needs.
 
 == Installation ==
 
-1. Upload `to-the-top-block` to the `/wp-content/plugins/` directory.
+1. Upload the plugin to the `/wp-content/plugins/` directory.
 2. Activate the plugin through the `Plugins` menu in WordPress.
 
 == Screenshots ==
@@ -35,6 +35,9 @@ This block enables both you and your visitors to jump to the top of any given pa
 4. Adjust the label of the jump to the top link.
 
 == Changelog ==
+
+= 1.3.0 (2023.03.04) =
+* Test against WordPress 6.2
 
 = 1.2.0 (2022.07.12) =
 * Update screenshots

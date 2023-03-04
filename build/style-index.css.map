@@ -1,0 +1,1 @@
+{"version":3,"file":"./style-index.css","mappings":";;;AAAA;EACC;AACD,C","sources":["webpack://smntcs-to-the-top-block/./src/style.scss"],"sourcesContent":["html {\n\tscroll-behavior: smooth;\n}\n"],"names":[],"sourceRoot":""}

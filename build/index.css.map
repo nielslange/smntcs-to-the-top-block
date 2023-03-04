@@ -1,1 +1,1 @@
-{"version":3,"file":"index.css","mappings":";;;AACE;EACE;AAAJ,C","sources":["webpack://to-the-top-block/./src/editor.scss"],"sourcesContent":[".wp-block-nielslange-to-the-top-block {\n  textarea {\n    background: transparent;\n  }\n}\n"],"names":[],"sourceRoot":""}
+{"version":3,"file":"index.css","mappings":";;;AAEC;EACC;AADF,C","sources":["webpack://smntcs-to-the-top-block/./src/editor.scss"],"sourcesContent":[".wp-block-nielslange-smntcs-to-the-top-block {\n\n\ttextarea {\n\t\tbackground: transparent;\n\t}\n}\n"],"names":[],"sourceRoot":""}
