@@ -26,6 +26,10 @@ You can find the plugin on <https://wordpress.org/plugins/to-the-top-block/>.
 
 ## Changelog
 
+### 1.5.0 (2023.10.21)
+
+-   Bump version to trigger WordPress.org deploy action
+
 ### 1.4.0 (2023.10.21)
 
 -   Test against WP 6.4

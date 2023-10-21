@@ -4,7 +4,7 @@ Contributors:       nielslange
 Tags:               back to top, scroll to top, scroll top, scroll up, scroll to top block
 Tested up to:       6.4
 Requires at least:  5.0
-Stable tag:         1.4
+Stable tag:         1.5
 Requires PHP:       7.0
 License:            GPL-2.0-or-later
 License URI:        https://www.gnu.org/licenses/gpl-2.0.html
@@ -35,6 +35,10 @@ This block enables both you and your visitors to jump to the top of any given pa
 4. Adjust the label of the jump to the top link.
 
 == Changelog ==
+
+= 1.5.0 (2023.10.21) =
+
+- Bump version to trigger WordPress.org deploy action
 
 = 1.4.0 (2023.10.21) =
 
