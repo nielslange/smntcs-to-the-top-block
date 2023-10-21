@@ -26,9 +26,13 @@ You can find the plugin on <https://wordpress.org/plugins/to-the-top-block/>.
 
 ## Changelog
 
+### 1.4.0 (2023.10.21)
+
+-   Test against WP 6.4
+
 ### 1.3.0 (2023.03.04)
 
--   Test against WordPress 6.2
+-   Test against WP 6.2
 
 ### 1.2.0 (2022.07.12)
 
