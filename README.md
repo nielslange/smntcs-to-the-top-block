@@ -1,13 +1,13 @@
 # SMNTCS To The Top Block
 
 ![Support Level](https://img.shields.io/badge/support-active-green.svg)
-![Deploy Status](https://github.com/nielslange/to-the-top-block/actions/workflows/deploy.yml/badge.svg)
 ![GPLv2 License](https://img.shields.io/github/license/nielslange/to-the-top-block.svg)
 ![Compatible to WordPress version](https://plugintests.com/plugins/to-the-top-block/wp-badge.svg)
 ![Compatible to PHP version](https://plugintests.com/plugins/to-the-top-block/php-badge.svg)
 ![Downloads](https://img.shields.io/wordpress/plugin/dt/to-the-top-block.svg)
 ![Plugin Version](https://img.shields.io/wordpress/plugin/v/to-the-top-block.svg)
 ![Tag Version](https://img.shields.io/github/tag/nielslange/to-the-top-block.svg)
+![Deploy to WordPress.org](https://github.com/nielslange/to-the-top-block/workflows/Deploy%20to%20WordPress.org/badge.svg)
 
 ## Description
 
