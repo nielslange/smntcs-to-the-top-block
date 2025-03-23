@@ -6,9 +6,9 @@
  * Author: 			  	Niels Lange <info@nielslange.de>
  * Author URI: 		  	https://nielslange.de
  * Text Domain:       	smntcs-to-the-top-block
- * Version:           	1.5
+ * Version:           	1.6
  * Requires at least: 	5.0
- * Requires PHP:      	7.0
+ * Requires PHP:      	7.4
  * License:           	GPL v2 or later
  * License URI:       	https://www.gnu.org/licenses/gpl-2.0.html
  */

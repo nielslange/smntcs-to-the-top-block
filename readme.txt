@@ -2,10 +2,10 @@
 
 Contributors:       nielslange
 Tags:               back to top, scroll to top, scroll top, scroll up, scroll to top block
-Tested up to:       6.4
+Stable tag:         1.6
+Tested up to:       6.8
 Requires at least:  5.0
-Stable tag:         1.5
-Requires PHP:       7.0
+Requires PHP:       7.4
 License:            GPL-2.0-or-later
 License URI:        https://www.gnu.org/licenses/gpl-2.0.html
 
@@ -36,17 +36,21 @@ This block enables both you and your visitors to jump to the top of any given pa
 
 == Changelog ==
 
+= 1.6 (2025.03.23) =
+
+- Tested up to WordPress 6.8
+
 = 1.5.0 (2023.10.21) =
 
 - Bump version to trigger WordPress.org deploy action
 
 = 1.4.0 (2023.10.21) =
 
-- Test against WP 6.4
+- Tested up to WordPress 6.4
 
 = 1.3.0 (2023.03.04) =
 
-- Test against WP 6.2
+- Tested up to WordPress 6.2
 
 = 1.2.0 (2022.07.12) =
 
