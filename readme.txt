@@ -3,7 +3,7 @@
 Contributors:       nielslange
 Tags:               back to top, scroll to top, scroll top, scroll up, scroll to top block
 Stable tag:         1.6
-Tested up to:       6.8
+Tested up to:       7.1
 Requires at least:  6.6
 Requires PHP:       7.4
 License:            GPL v2 or later

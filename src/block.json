@@ -1,8 +1,8 @@
 {
 	"$schema": "https://schemas.wp.org/trunk/block.json",
-	"apiVersion": 2,
+	"apiVersion": 3,
 	"name": "nielslange/smntcs-to-the-top-block",
-	"version": "0.1.0",
+	"version": "1.7",
 	"title": "Jump To The Top Link",
 	"category": "widgets",
 	"icon": "arrow-up-alt",
@@ -21,7 +21,7 @@
 			"default": "Jump to the top ↑"
 		}
 	},
-	"textdomain": "smntcs-to-the-top-block",
+	"textdomain": "to-the-top-block",
 	"editorScript": "file:./index.js",
 	"editorStyle": "file:./index.css",
 	"style": "file:./style-index.css"
