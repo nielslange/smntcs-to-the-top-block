@@ -1,0 +1,40 @@
+{
+	"name": "nielslange/smntcs-to-the-top-block",
+	"type": "wordpress-plugin",
+	"description": "Adds a jump to the top link to your pages, posts or custom post types.",
+	"homepage": "https://github.com/nielslange/smntcs-to-the-top-block",
+	"keywords": [
+		"WordPress",
+		"Plugin",
+		"SMNTCS To The Top Block"
+	],
+	"license": "GPL-2.0-or-later",
+	"authors": [
+		{
+			"name": "Niels Lange"
+		}
+	],
+	"require": {
+		"php": ">=7.4"
+	},
+	"require-dev": {
+		"dealerdirect/phpcodesniffer-composer-installer": "^1.2.1",
+		"humanmade/psalm-plugin-wordpress": "^3.1.2",
+		"overtrue/phplint": "^9.7",
+		"phpcompatibility/phpcompatibility-wp": "^2.1.8",
+		"squizlabs/php_codesniffer": "^3.13.5",
+		"vimeo/psalm": "^6.18",
+		"wp-coding-standards/wpcs": "^3.4.1"
+	},
+	"scripts": {
+		"phpcbf": "phpcbf --standard=phpcs.dist.xml .",
+		"phpcs": "phpcs --standard=phpcs.dist.xml .",
+		"phplint": "phplint lint",
+		"psalm": "psalm --no-cache"
+	},
+	"config": {
+		"allow-plugins": {
+			"dealerdirect/phpcodesniffer-composer-installer": true
+		}
+	}
+}

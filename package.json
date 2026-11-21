@@ -1,24 +1,36 @@
 {
 	"name": "smntcs-to-the-top-block",
-	"version": "0.1.0",
-	"description": "Example block written with ESNext standard and JSX support – build step required.",
-	"author": "The WordPress Contributors",
+	"version": "1.6.0",
+	"description": "Adds a jump to the top link to your pages, posts or custom post types.",
+	"author": "Niels Lange",
 	"license": "GPL-2.0-or-later",
+	"homepage": "https://github.com/nielslange/smntcs-to-the-top-block#readme",
+	"keywords": [
+		"WordPress",
+		"Plugin",
+		"SMNTCS To The Top Block"
+	],
 	"main": "build/index.js",
+	"devDependencies": {
+		"@wordpress/env": "11.16.0",
+		"@wordpress/prettier-config": "4.56.0",
+		"@wordpress/scripts": "36.0.0",
+		"npm-run-all2": "^9.0.3",
+		"prettier": "npm:wp-prettier@3.9.6"
+	},
 	"scripts": {
 		"build": "wp-scripts build",
+		"start": "wp-scripts start",
 		"format": "wp-scripts format",
 		"lint:css": "wp-scripts lint-style",
-		"lint:css-fix": "wp-scripts lint-style --fix",
 		"lint:js": "wp-scripts lint-js",
-		"packages-update": "wp-scripts packages-update",
 		"plugin-zip": "wp-scripts plugin-zip",
-		"start": "wp-scripts start"
+		"phpcbf": "composer run phpcbf",
+		"phpcs": "composer run phpcs",
+		"phplint": "composer run phplint",
+		"psalm": "composer run psalm",
+		"test": "run-s phpcs phplint psalm",
+		"wp-env": "wp-env"
 	},
-	"devDependencies": {
-		"@wordpress/block-editor": "^9.4.0",
-		"@wordpress/scripts": "^23.4.0",
-		"eslint": "^7.32.0",
-		"prettier": "npm:wp-prettier@2.0.5"
-	}
+	"packageManager": "pnpm@12.8.1"
 }
