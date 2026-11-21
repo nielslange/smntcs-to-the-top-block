@@ -2,7 +2,7 @@
  * External dependencies
  */
 import {
-	AlignmentToolbar,
+	AlignmentControl,
 	BlockControls,
 	PlainText,
 	useBlockProps,
@@ -25,7 +25,7 @@ export const Edit = ( { attributes, setAttributes }: props ): JSX.Element => {
 		<p { ...useBlockProps() }>
 			{
 				<BlockControls>
-					<AlignmentToolbar
+					<AlignmentControl
 						value={ alignment }
 						onChange={ ( value ) =>
 							setAttributes( { alignment: value } )

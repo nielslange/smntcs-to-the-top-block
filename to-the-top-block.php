@@ -5,7 +5,7 @@
  * Description:       Adds a jump to the top link to your pages, posts or custom post types.
  * Author:            Niels Lange
  * Author URI:        https://nielslange.de
- * Text Domain:       smntcs-to-the-top-block
+ * Text Domain:       to-the-top-block
  * Version:           1.6
  * Requires at least: 6.6
  * Requires PHP:      7.4
