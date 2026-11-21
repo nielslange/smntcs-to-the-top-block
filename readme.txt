@@ -4,22 +4,22 @@ Contributors:       nielslange
 Tags:               back to top, scroll to top, scroll top, scroll up, scroll to top block
 Stable tag:         1.6
 Tested up to:       6.8
-Requires at least:  5.0
+Requires at least:  6.6
 Requires PHP:       7.4
-License:            GPL-2.0-or-later
+License:            GPL v2 or later
 License URI:        https://www.gnu.org/licenses/gpl-2.0.html
 
 Adds a jump to the top link to your pages, posts or custom post types.
 
 == Description ==
 
-Sometimes … all you want, is jumping to the top, ins’t it? Wait no longer and install this SMNTCS To The Top Block!
+SMNTCS To The Top Block adds a link that takes visitors back to the top of the page. Place it anywhere in a page, post or custom post type, for example at the end of a long article. Clicking the link scrolls smoothly to the top.
 
-This block enables both you and your visitors to jump to the top of any given page, post or custom post type. Stop scrolling up long pages and start using the SMNTCS To The Top Block instead.
+Add the block in the block editor, type your own label and align it left, centre or right. The block works with block themes and with classic themes that call `wp_body_open`.
 
 === Features ===
 
-- Align the SMNTCS To The Top Block left, right or center.
+- Align the link left, centre or right.
 - Adjust the label according to your needs.
 
 == Installation ==

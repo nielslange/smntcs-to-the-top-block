@@ -1,19 +1,19 @@
 # SMNTCS To The Top Block
 
 ![Support Level](https://img.shields.io/badge/support-active-green.svg)
-![GPLv2 License](https://img.shields.io/github/license/nielslange/to-the-top-block.svg)
-![Compatible to WordPress version](https://plugintests.com/plugins/to-the-top-block/wp-badge.svg)
-![Compatible to PHP version](https://plugintests.com/plugins/to-the-top-block/php-badge.svg)
+![Build Status](https://github.com/nielslange/smntcs-to-the-top-block/actions/workflows/test.yml/badge.svg)
+![GPLv2 License](https://img.shields.io/github/license/nielslange/smntcs-to-the-top-block.svg)
+![Compatible to WordPress version](https://img.shields.io/wordpress/plugin/tested/to-the-top-block.svg)
+![Compatible to PHP version](https://img.shields.io/wordpress/plugin/required-php/to-the-top-block.svg)
 ![Downloads](https://img.shields.io/wordpress/plugin/dt/to-the-top-block.svg)
 ![Plugin Version](https://img.shields.io/wordpress/plugin/v/to-the-top-block.svg)
-![Tag Version](https://img.shields.io/github/tag/nielslange/to-the-top-block.svg)
-![Deploy to WordPress.org](https://github.com/nielslange/to-the-top-block/workflows/Deploy%20to%20WordPress.org/badge.svg)
+![Tag Version](https://img.shields.io/github/tag/nielslange/smntcs-to-the-top-block.svg)
 
 ## Description
 
-Sometimes … all you want, is jumping to the top, ins’t it? Wait no longer and install this SMNTCS To The Top Block!
+SMNTCS To The Top Block adds a link that takes visitors back to the top of the page. Place it anywhere in a page, post or custom post type, for example at the end of a long article. Clicking the link scrolls smoothly to the top.
 
-This block enables both you and your visitors to jump to the top of any given page, post or custom post type. Stop scrolling up long pages and start using the SMNTCS To The Top Block instead.
+Add the block in the block editor, type your own label and align it left, centre or right. The block works with block themes and with classic themes that call `wp_body_open`.
 
 ## Installation
 
