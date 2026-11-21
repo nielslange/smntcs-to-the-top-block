@@ -2,7 +2,7 @@
 
 Contributors:       nielslange
 Tags:               back to top, scroll to top, scroll top, scroll up, scroll to top block
-Stable tag:         1.6
+Stable tag:         1.7
 Tested up to:       7.1
 Requires at least:  6.6
 Requires PHP:       7.4
@@ -35,6 +35,14 @@ Add the block in the block editor, type your own label and align it left, centre
 4. Adjust the label of the jump to the top link.
 
 == Changelog ==
+
+= 1.7 (2026.11.21) =
+
+- Fix the text domain so translations from WordPress.org load
+- Update the block to block API version 3 for the iframed editor
+- Require WordPress 6.6 or later
+- Test against WordPress 7.1
+- New plugin icon and banners
 
 = 1.6 (2025.03.23) =
 

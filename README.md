@@ -26,6 +26,14 @@ You can find the plugin on [WordPress.org](https://wordpress.org/plugins/to-the-
 
 ## Changelog
 
+### 1.7 (2026.11.21)
+
+- Fix the text domain so translations from WordPress.org load
+- Update the block to block API version 3 for the iframed editor
+- Require WordPress 6.6 or later
+- Test against WordPress 7.1
+- New plugin icon and banners
+
 ### 1.6 (2025.03.23)
 
 - Tested up to WordPress 6.8
